@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
@@ -11,8 +16,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf225241-0b11-42fb-b4dc-32ff69afd427" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HappyGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HappyGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,27 +82,27 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1596306066189">
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1596306573055">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.804/1440.23.1280.1001@0.23.1440.804" timestamp="1596305516057" />
-    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306066189" />
-    <state width="1378" height="179" key="GridCell.Tab.0.bottom" timestamp="1596304562776">
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306573055" />
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom" timestamp="1596306073008">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562776" />
-    <state width="1378" height="179" key="GridCell.Tab.0.center" timestamp="1596304562773">
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073008" />
+    <state width="1378" height="179" key="GridCell.Tab.0.center" timestamp="1596306073007">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562773" />
-    <state width="1378" height="179" key="GridCell.Tab.0.left" timestamp="1596304562771">
+    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073007" />
+    <state width="1378" height="179" key="GridCell.Tab.0.left" timestamp="1596306073007">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562771" />
-    <state width="1378" height="179" key="GridCell.Tab.0.right" timestamp="1596304562774">
+    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073007" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right" timestamp="1596306073008">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562774" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073008" />
     <state x="550" y="312" key="VCS.ChangelistChooser" timestamp="1596304815300">
       <screen x="0" y="23" width="1440" height="806" />
     </state>

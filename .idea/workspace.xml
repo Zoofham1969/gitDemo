@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select>
       <path>
@@ -16,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf225241-0b11-42fb-b4dc-32ff69afd427" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/HappyGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HappyGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +52,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BookARoom">
+    <configuration name="BookARoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookARoom" />
+      <module name="gitDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HappyGit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HappyGit" />
       <module name="gitDemo" />
@@ -53,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookARoom" />
         <item itemvalue="Application.HappyGit" />
       </list>
     </recent_temporary>
@@ -82,27 +99,32 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1596306573055">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1596310046445">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.801/1440.23.1280.1001@0.23.1440.801" timestamp="1596310046445" />
     <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.804/1440.23.1280.1001@0.23.1440.804" timestamp="1596305516057" />
-    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306573055" />
-    <state width="1378" height="179" key="GridCell.Tab.0.bottom" timestamp="1596306073008">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306780643" />
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom" timestamp="1596307974392">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073008" />
-    <state width="1378" height="179" key="GridCell.Tab.0.center" timestamp="1596306073007">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.801/1440.23.1280.1001@0.23.1440.801" timestamp="1596307974392" />
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306578967" />
+    <state width="1378" height="179" key="GridCell.Tab.0.center" timestamp="1596307974390">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073007" />
-    <state width="1378" height="179" key="GridCell.Tab.0.left" timestamp="1596306073007">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.801/1440.23.1280.1001@0.23.1440.801" timestamp="1596307974390" />
+    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306578965" />
+    <state width="1378" height="179" key="GridCell.Tab.0.left" timestamp="1596307974388">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073007" />
-    <state width="1378" height="179" key="GridCell.Tab.0.right" timestamp="1596306073008">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.801/1440.23.1280.1001@0.23.1440.801" timestamp="1596307974388" />
+    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306578963" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right" timestamp="1596307974391">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306073008" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.801/1440.23.1280.1001@0.23.1440.801" timestamp="1596307974391" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306578966" />
     <state x="550" y="312" key="VCS.ChangelistChooser" timestamp="1596304815300">
       <screen x="0" y="23" width="1440" height="806" />
     </state>

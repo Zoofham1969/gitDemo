@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf225241-0b11-42fb-b4dc-32ff69afd427" name="Default Changelist" comment="" />
+    <list default="true" id="bf225241-0b11-42fb-b4dc-32ff69afd427" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HappyGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HappyGit.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fVXpiQzHdGlqipD67OdWaasv83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -42,5 +66,43 @@
       <updated>1596304417692</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog" timestamp="1596306066189">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.804/1440.23.1280.1001@0.23.1440.804" timestamp="1596305516057" />
+    <state x="100" y="123" width="1240" height="598" key="DiffContextDialog/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596306066189" />
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom" timestamp="1596304562776">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1378" height="179" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562776" />
+    <state width="1378" height="179" key="GridCell.Tab.0.center" timestamp="1596304562773">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1378" height="179" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562773" />
+    <state width="1378" height="179" key="GridCell.Tab.0.left" timestamp="1596304562771">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1378" height="179" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562771" />
+    <state width="1378" height="179" key="GridCell.Tab.0.right" timestamp="1596304562774">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1378" height="179" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304562774" />
+    <state x="550" y="312" key="VCS.ChangelistChooser" timestamp="1596304815300">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="550" y="312" key="VCS.ChangelistChooser/0.23.1440.806/1440.23.1280.1001@0.23.1440.806" timestamp="1596304815300" />
   </component>
 </project>
